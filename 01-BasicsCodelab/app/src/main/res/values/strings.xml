@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicsCodelab</string>
+
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+
+    <string name="welcome_title">Welcome to the Basics Codelab!</string>
+
+    <string name="general_continue">Continue</string>
+</resources>
